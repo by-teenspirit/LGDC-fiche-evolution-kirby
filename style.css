@@ -121,7 +121,7 @@
 
 .rela-content {
   height: 140px;
-  width: 245px;
+  width: 224px;
   display: inline-block;
   background-color: black;
   border-radius: 5px;
@@ -168,7 +168,7 @@
   text-align: justify;
   position: absolute;
   height: 140px;
-  width: 245px;
+  width: 224px;
   color: white;
   -moz-transition: opacity 0.8s ease-in-out;
   -webkit-transition: opacity 0.8s ease-in-out;
