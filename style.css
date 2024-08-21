@@ -63,7 +63,6 @@
   border-radius: 5px;
   padding: 15px;
   overflow: auto;
-  background-color: #cdccc7;
   flex: 2;
   box-sizing: border-box;
   text-align: justify;
@@ -85,7 +84,6 @@
 }
 
 .cita-kirby {
-  background-color: #99b7af;
   padding: 10px;
   border-radius: 5px;
   width: 100%;
@@ -194,6 +192,5 @@
 }
 
 .separa-kirby {
-  border: 10px solid #99b7af;
   border-radius: 5px;
 }
